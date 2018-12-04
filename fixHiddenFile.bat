@@ -33,6 +33,7 @@ goto :start
 cls
 echo.
 cd %drive%:/project/a
+cd %drive%:/
 attrib *.* -h -s /s /d
 if NOT ["%errorlevel%"]==["0"] (
     pause
