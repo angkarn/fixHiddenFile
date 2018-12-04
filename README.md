@@ -4,7 +4,7 @@ Fix files from the USB Drive is hidden by the virus on Windows.
 *สร้างจาก Batch File
 </br>
 #### Screenshot  
-![alt tag](https://github.com/angkarn/fixHiddenFile/blob/master/screenshot1.png)  
+![screenshot1](https://github.com/angkarn/fixHiddenFile/blob/master/screenshot1.png )  
 </br>  
 #### วิธีใช้
 เสียบ USB Drive แล้วเปิดโปรแกรม พิมพ์ Drive ที่จะแก้ ( ตัวอย่าง: f ) จากนั้นยืนยัน และรอจนขึ้น Success!.  
