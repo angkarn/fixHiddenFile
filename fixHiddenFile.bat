@@ -32,14 +32,11 @@ goto :start
 :proc
 cls
 echo.
-cd %drive%:/project/a
 cd %drive%:/
+echo.  processing...
 attrib *.* -h -s /s /d
-if NOT ["%errorlevel%"]==["0"] (
-    pause
-    exit /b %errorlevel%
-)
-Call :Color B "Success!"
+cls
+Call :Color B " Success!"
 pause
 
 :checkLast
